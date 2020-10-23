@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 💻 I’m programming on ...  
+[1. 프로그래머스 문제 풀이](https://github.com/coco-in-bluemoon/programmers-challenges)  
+[2. 백준 온라인 저지](https://github.com/coco-in-bluemoon/baekjoon-online-judge)  
+[3. SWEA(SW Expert Academy)](https://github.com/coco-in-bluemoon/sw-expert-academy-code)  
+4. 해커 랭크  
+
+### 📚 I’m reading on ...  
+[1. 추천 엔진을 구축하기 위한 기본서](https://github.com/coco-in-bluemoon/building-recommendation-engines)  
+#추천시스템  
+[2. 브라이틱스와 함께하는 데이터분석](https://github.com/coco-in-bluemoon/brightics-practice)  
+#데이터분석 #SDS
+
+### 🌱 I’m learning about ...  
+[CS 관련 지식을 정리하는 공간](https://github.com/coco-in-bluemoon/cs-basics)
